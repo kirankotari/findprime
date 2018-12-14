@@ -1,0 +1,8 @@
+'''
+Update the credential details, move to /opt/settings/ and rename the file as config.py
+'''
+
+github = {
+	'login_or_token': None,
+	'password': None
+}
