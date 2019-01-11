@@ -8,7 +8,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 	long_description = f.read()
 
 setup(
-	name='ThePrime',
+	name='findprime',
 	version='0.0.1',
 	description="Find the prime numbers in the given range with addition approach.",
 	long_description = long_description,
